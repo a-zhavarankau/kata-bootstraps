@@ -32,7 +32,11 @@ You are welcome to contribute by submitting likewise a min setup for your langua
 [java-ci-badge]:../../../kata-bootstraps/workflows/Java%20CI/badge.svg "CI build status"
 [php-ci-badge]:../../../kata-bootstraps/workflows/PHP%20CI/badge.svg "CI build status"
 [rust-ci-badge]:../../../kata-bootstraps/workflows/Rust%20CI/badge.svg "CI build status"
-[python-ci-badge]:../../../kata-bootstraps/workflows/Python%20CI/badge.svg "CI build status"
+[python-ci-badge]:https://github.com/a-zhavarankau/kata-bootstraps/workflows/Python%20CI/badge.svg "CI build status"
+
+<img src="https://github.com/a-zhavarankau/kata-bootstraps/workflows/Python%20CI/badge.svg" alt="CI build status">
+
+
 [scala-ci-badge]:../../../kata-bootstraps/workflows/Scala%20CI/badge.svg "CI build status"
 [js-ci-badge]:../../../kata-bootstraps/workflows/js%20CI/badge.svg "CI build status"
 [ts-ci-badge]:../../../kata-bootstraps/workflows/ts%20CI/badge.svg "CI build status"
